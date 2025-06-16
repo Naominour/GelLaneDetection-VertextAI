@@ -1,0 +1,12 @@
+torch
+torchvision
+albumentations==2.0.6
+numpy==2.2.4
+opencv-python
+pycocotools==2.0.8
+PyYAML==6.0.2
+tensorboard==2.19.0
+pillow
+fastapi
+uvicorn[standard]
+pydantic
